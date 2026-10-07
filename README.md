@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header.svg" alt="En-tête : Audit migration CRM" width="100%">
+</p>
+
 # Audit qualité CRM avant migration Salesforce → HubSpot
 
 Notebook pandas / matplotlib qui audite la qualité de données CRM synthétiques (734 comptes, 5 234 contacts) comme préparation d'une migration Salesforce → HubSpot : mesure des anomalies, nettoyage, analyse commerciale, cartographie des objets et recommandations. Aucune migration réelle n'a été réalisée.
